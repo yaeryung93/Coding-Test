@@ -2,7 +2,7 @@ class Solution {
     public int[] solution(int n, int[] slicer, int[] num_list) {
         int[] answer;
         if(n==1){
-            answer=new int[slicer[1]+1];
+            answer=new int[num_list[1]+1];
             for(int i=0; i<answer.length; i++){
                 answer[i]=num_list[i];
             }
