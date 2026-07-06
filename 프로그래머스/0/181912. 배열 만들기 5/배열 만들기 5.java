@@ -3,9 +3,7 @@ class Solution {
     public int[] solution(String[] intStrs, int k, int s, int l) {
         ArrayList<Integer> num=new ArrayList<Integer>();
         for(int i=0; i<intStrs.length; i++){
-            String ret="";
-            for(int j=s; j<s+l; j++)
-                ret+=intStrs[i].charAt(j);
+            String ret=intStrs[i].substring(s,s+l);
             if(Integer.parseInt(ret)>k)
                 num.add(Integer.parseInt(ret));
         }
