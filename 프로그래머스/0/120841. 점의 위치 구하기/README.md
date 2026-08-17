@@ -1,10 +1,10 @@
 # [level 0] 점의 위치 구하기 - 120841 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120841) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120841?language=python3) 
 
 ### 성능 요약
 
-메모리: 61.6 MB, 시간: 0.01 ms
+메모리: 11.6 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 22일 23:29:32
+2026년 08월 18일 07:42:01
 
 ### 문제 설명
 
