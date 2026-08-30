@@ -1,10 +1,10 @@
 # [level 0] n의 배수 고르기 - 120905 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=python3) 
 
 ### 성능 요약
 
-메모리: 73 MB, 시간: 0.02 ms
+메모리: 11.4 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 16일 19:50:02
+2026년 08월 31일 08:18:47
 
 ### 문제 설명
 
