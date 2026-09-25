@@ -4,7 +4,9 @@
 
 <h4>사용 언어</h4>
 - Java <br>
-- python3 <br>
+- Python3 <br>
+- C <br>
+- C++ <br>
 - SQL (MySQL)
 
 <h4>플랫폼</h4>
